@@ -8,7 +8,7 @@
  - ## **`Offline 2` : Lexical Analysis (FLEX)**
   
    - [Problem Statement](Problem%20Statements/Assignment_2_Specification.pdf)
-   - [Solution](2%20Lexical%20Alalysis)
+   - [Solution](2%20Lexical%20Analysis)
 
  - ## **`Offline 3` : Syntax & Semantic Analysis (YACC/BISON)**
   
