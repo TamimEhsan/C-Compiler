@@ -19,3 +19,7 @@
   
    - [Problem Statement](Problem%20Statements/Assignment_4_Specification.pdf)
    - [Solution](4%20Intermediate%20Code%20Generation)
+
+
+
+PS. The intermediate code generation creates code by concatenation. NOT ON THE FLY. I really didn't want to waste my time for bonus 5 marks. 
